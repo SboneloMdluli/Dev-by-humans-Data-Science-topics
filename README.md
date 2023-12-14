@@ -9,7 +9,8 @@ Train and test dataset should be in the same directory as the notebook
 
 # Package Installation
 run 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 alternatively the packages can be directly installed from the notebook by running the 
 installation cell.
